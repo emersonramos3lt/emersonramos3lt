@@ -1,5 +1,4 @@
-# 💫 About Me:
-**👋 Hi! I'm Emerson!**
+# **👋 Hi! I'm Emerson!**
 
 
 # 💻 Tech Stack:
