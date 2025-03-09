@@ -1,5 +1,5 @@
 <h1 align="left">Hello 👋! I'm a Brazilian full stack developer</h1>
-<p style="font-size: 2rem;">I build dynamic web applications using React, Next.js, TypeScript, and MongoDB, with backend experience in PHP, MySQL, and Python. Passionate about UI/UX design with Figma and always eager to learn new technologies.</p>
+<p>I build dynamic web applications using React, Next.js, TypeScript, and MongoDB, with backend experience in PHP, MySQL, and Python. Passionate about UI/UX design with Figma and always eager to learn new technologies.</p>
 
 ###
 
