@@ -1,10 +1,12 @@
-<h1 align="left">Hello 👋! I'm a Brazilian full stack developer</h1>
-I build dynamic web applications using React, Next.js, TypeScript, and MongoDB, with backend experience in PHP, MySQL, and Python. Passionate 
-about UI/UX design with Figma and always eager to learn new technologies.
+<h1 align="left">Hello 👋! I'm a full stack developer</h1>
 
 ###
 
-<div align="left">
+<p align="left">I build dynamic web applications using React, Next.js, TypeScript, and MongoDB, with backend experience in PHP, MySQL, and Python. Passionate about UI/UX design with Figma and always eager to learn new technologies.</p>
+
+###
+
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=emersonramos3lt&locale=en&mode=daily&theme=rose_pine&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emersonramos3lt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=false" height="150" alt="languages graph"  />
 </div>
@@ -49,3 +51,5 @@ about UI/UX design with Figma and always eager to learn new technologies.
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+
+###
