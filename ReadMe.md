@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I build dynamic web applications using React, Next.js, TypeScript, and MongoDB, with backend experience in PHP, MySQL, and Python. Passionate about UI/UX design with Figma and always eager to learn new technologies.</p>
+<p align="left">I build dynamic web applications using React, Next.js, TypeScript, and MongoDB, with backend experience in basic PHP, MySQL, and Python. Passionate about UI/UX design with Figma and always eager to learn new technologies.</p>
 
 ###
 
